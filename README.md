@@ -98,10 +98,10 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 Open a terminal and run the following git command:
 
 ```
-git clone "url you just copied"
+git clone url-you-just-copied
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+where "url-you-just-copied" is the url to your repository (your fork of this project). See the previous steps to obtain the url.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -146,7 +146,7 @@ Add those changes to the branch you just created using the `git add` command:
 ```
 git add Contributors.md
 ```
-Now commit those changes using the `git commit` command:
+Now commit those changes using the `git commit` command (with quotation marks):
 
 ```
 git commit -m "Add your-name to Contributors list"
